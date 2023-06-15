@@ -12,31 +12,30 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/YouTube-icon.png';
 
 export const categories = [
-  { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
-  { name: 'Coding', icon: <CodeIcon />, },
+  { name: 'Нове', icon: <HomeIcon />, },
+  { name: 'Кодінг', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
-  { name: 'Music', icon: <MusicNoteIcon /> },
-  { name: 'Education', icon: <SchoolIcon />, },
-  { name: 'Podcast', icon: <GraphicEqIcon />, },
-  { name: 'Movie', icon: <OndemandVideoIcon />, },
-  { name: 'Gaming', icon: <SportsEsportsIcon />, },
-  { name: 'Live', icon: <LiveTvIcon />, },
-  { name: 'Sport', icon: <FitnessCenterIcon />, },
-  { name: 'Fashion', icon: <CheckroomIcon />, },
-  { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
-  { name: 'Comedy', icon: <TheaterComedyIcon />, },
-  { name: 'Gym', icon: <FitnessCenterIcon />, },
-  { name: 'Crypto', icon: <DeveloperModeIcon />, },
+  { name: 'Музика', icon: <MusicNoteIcon /> },
+  { name: 'Освіта', icon: <SchoolIcon />, },
+  { name: 'Подкасти', icon: <GraphicEqIcon />, },
+  { name: 'Фільми', icon: <OndemandVideoIcon />, },
+  { name: 'Ігри', icon: <SportsEsportsIcon />, },
+  { name: 'Наживо', icon: <LiveTvIcon />, },
+  { name: 'Спорт', icon: <FitnessCenterIcon />, },
+  { name: 'Стиль', icon: <CheckroomIcon />, },
+  { name: 'Краса', icon: <FaceRetouchingNaturalIcon />, },
+  { name: 'Комедії', icon: <TheaterComedyIcon />, },
+  { name: 'GYM', icon: <FitnessCenterIcon />, },
+  { name: 'Крипто', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoThumbnailUrl = '';
+export const demoChannelUrl = '';
+export const demoVideoUrl = '';
+export const demoChannelTitle = 'Dilai Yurii';
+export const demoVideoTitle = '';
+export const demoProfilePicture = ''
